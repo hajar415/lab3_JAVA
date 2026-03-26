@@ -9,9 +9,9 @@ récapitulatif de toutes les données saisies. Un bouton "Retour au formulaire"
 permet de revenir au premier écran.
 
 ## Captures d'écran
-![Screenshot1](screenshots/imaage1.png)
-![Screenshot2](screenshots/imaage2.png)
-![Screenshot3](screenshots/imaage3.png)
+![Screenshot1](screenshots/imaage1.jpg)
+![Screenshot2](screenshots/imaage2.jpg)
+![Screenshot3](screenshots/imaage3.jpg)
 
 ## Auteur
 Hajar Chatbaoui
